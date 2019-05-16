@@ -6,7 +6,7 @@
     "compounds": [
         {
             "name": "Core + Browser",
-            "configurations": [ ".NET Core Launch (web)", "Launch Chrome" ]
+            "configurations": [ ".NET Core Attach", "Launch Chrome" ]
         }
     ],
     "configurations": [
