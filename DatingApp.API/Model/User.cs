@@ -11,12 +11,6 @@ namespace DatingApp.API.Model
         public byte[] PasswordSalt{get;set;}
         public string Gender { get; set; }
         public DateTime DateOfBirth { get; set; }
-
-		internal object FirstOrDefault()
-		{
-			throw new NotImplementedException();
-		}
-
 		public string KnownAs { get; set; }
         public DateTime Created { get; set; }
         public DateTime LastActive { get; set; }
