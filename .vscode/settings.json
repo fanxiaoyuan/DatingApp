@@ -1,2 +1,4 @@
 {
+	"editor.wrappingIndent": "indent",
+	"prettier.useTabs": true
 }
